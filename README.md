@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shlok singh
 - 👀 I’m interested in programming and management
-- 🌱 I’m currently learning multiple languages
+- 🌱 I’m currently learning springboot, js
 - 📫 How to reach me shloksingh845@gmail.com
 - 😄 Pronouns: AP and venom
 - ⚡ Fun fact: life is not easy dude 
